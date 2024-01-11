@@ -1,0 +1,17 @@
+/**********Layout*************/
+
+.center {
+  text-align: center;
+}
+
+.d-ib {
+  display: inline-block;
+}
+
+.td-none {
+  text-decoration: none;
+}
+
+.mg-15 {
+  margin: 15px;
+}
